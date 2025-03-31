@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(181, 187, 146, 0.801);
+    
+}
+
+.controle {
+    display: flex;
+}
+
+.texto {
+    height: 400px;
+    border: solid 5px rgb(121, 101, 101);
+    margin-top: 80px;
+    letter-spacing: normal;
+    text-align: center;
+
+}
+
+.texto2 {
+    height: 400px;
+    border: solid 5px rgb(121, 101, 101);
+    margin-top: 80px;
+    letter-spacing: normal;
+    text-align: center;
+
+}
